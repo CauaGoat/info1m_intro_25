@@ -1,0 +1,21 @@
+Q1 - Escreva um um algaritmo usando linguagem natural
+ que calcule a soma de dois numeros inteiros.
+
+  1. Leia / Pegue os valores desses dois números;
+  2. O resultado será a soma desses dois números;
+
+Q2 - Escreva um um algaritmo usando linguagem natural
+ que calcule a soma de dois numeros inteiros e mostre
+  o resultado.
+
+  1. Leia / Pegue os valores desses dois números;
+  2. O resultado será a soma desses dois números;
+  3. Mostre o resultado desta soma.
+
+Q3 - Escreva um um algaritmo usando linguagem natural que leia 
+dois numeros inteiros 'a' e 'b', calcule a soma destes numeros
+ e mostre o resultado
+
+  1. Leia os valores de 'a' e 'b';
+  2. O resultado será a soma de 'a' mais 'b';
+  3. Mostre o resultado desta soma.
